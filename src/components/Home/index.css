@@ -1,0 +1,21 @@
+/* Write your CSS here */
+
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.icon {
+  width: 100px;
+}
+
+.heading {
+  font-size: 24px;
+}
+
+.dark-color-theme {
+  background-color: #000000;
+}
